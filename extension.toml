@@ -1,0 +1,7 @@
+id = "blackrain-theme"
+name = "Blackrain Theme" 
+version = "0.1.0"
+schema_version = 1
+authors = ["kurokirasama <kurokirasama@gmail.com>"] # Your name and email
+description = "A dark theme for Zed inspired by Sublime Text's Black Rain theme" 
+repository = "https://github.com/kurokirasama/zed_blackrain_theme"
