@@ -174,6 +174,15 @@
           },
           "text.literal": {
             "color": "#4682B4"
+          },
+          "string.m": {
+            "color": "#00CC00"
+          },
+          "comment.m": {
+            "color": "#FF0000"
+          },
+          "variable_name.m": {
+            "color": "#df881d"
           }
         },
         "players": [
@@ -214,6 +223,7 @@
         "status_bar.background": "#000000d7",
         "status_bar.foreground": "#ffffff",
         "title_bar.background": "#000000d7",
+        "title_bar.inactive_background": "#000000d7",
         "title_bar.foreground": "#ffffff",
         "tab.active_background": "#40404030",
         "tab.active_foreground": "#ffffff",
@@ -296,7 +306,10 @@
             "font_style": null,
             "font_weight": 700
           },
-          "text.literal": { "color": "#4682B4" }
+          "text.literal": { "color": "#4682B4" },
+          "string.m": { "color": "#00CC00" },
+          "comment.m": { "color": "#FF0000" },
+          "variable_name.m": { "color": "#df881d" }
         },
         "players": [{ "cursor": "#ffffff", "selection": "#40404030" }],
         "version_control.added_background": "#00000026",
