@@ -29,9 +29,10 @@
         "editor.active_line_number": "#FFFFFF",
         "status_bar.background": "#000000",
         "status_bar.foreground": "#ffffff",
-        "title_bar.background": "#000000",
+        "title_bar.background": "#000000d7",
+        "title_bar.inactive_background": "#000000d7",
         "title_bar.foreground": "#ffffff",
-        "tab.active_background": "#000000",
+        "tab.active_background": "#40404030",
         "tab.active_foreground": "#ffffff",
         "tab.inactive_background": "#404040",
         "tab_bar.background": "#000000",
@@ -73,8 +74,8 @@
         "scrollbar.track.border": "#000000",
         "editor.active_line.background": "#404040",
         "editor.highlighted_line.background": "#404040",
-        "editor.document_highlight.read_background": "#292929ff",
         "editor.line_number": "#ffffff",
+        "editor.document_highlight.bracket_background": "#505050",
         "elevated_surface.background": "#0D0E0E",
         "elevated_surface.border": "#ffffff",
         "surface.background": "#000000",
@@ -174,15 +175,6 @@
           },
           "text.literal": {
             "color": "#4682B4"
-          },
-          "string.m": {
-            "color": "#00CC00"
-          },
-          "comment.m": {
-            "color": "#FF0000"
-          },
-          "variable_name.m": {
-            "color": "#df881d"
           }
         },
         "players": [
@@ -268,6 +260,7 @@
         "scrollbar.track.border": "#00000010",
         "editor.foreground": "#ffffff",
         "editor.document_highlight.read_background": "#00000029",
+        "editor.document_highlight.bracket_background": "#50505040",
         "editor.line_number": "#ffffff",
         "elevated_surface.background": "#0D0E0E",
         "elevated_surface.border": "#ffffff",
@@ -306,10 +299,7 @@
             "font_style": null,
             "font_weight": 700
           },
-          "text.literal": { "color": "#4682B4" },
-          "string.m": { "color": "#00CC00" },
-          "comment.m": { "color": "#FF0000" },
-          "variable_name.m": { "color": "#df881d" }
+          "text.literal": { "color": "#4682B4" }
         },
         "players": [{ "cursor": "#ffffff", "selection": "#40404030" }],
         "version_control.added_background": "#00000026",
