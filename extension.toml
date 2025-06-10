@@ -1,6 +1,6 @@
 id = "blackrain-theme"
 name = "Blackrain Theme"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["kurokirasama <kurokirasama@gmail.com>"]
 description = "A dark theme for Zed inspired by Sublime Text's Black Rain theme"
